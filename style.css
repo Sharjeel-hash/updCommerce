@@ -1,0 +1,40 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+.hero{
+    padding: 100px 0;
+}
+.content .promo-badge{
+    color: #0a4db8;
+    font-weight: 600;
+    background-color: #e3e6eb;
+    padding: 0.5rem 1rem;
+}
+.content-heading{
+    color: #2d465e;
+    font-weight: 600;
+    font-size: 57px
+}
+.content-heading .fashion-color{
+    color: #0a4db8;
+}
+.content p{
+    font-size: 1.3rem;
+    color: #212529;
+}
+.banner-links .btn-shop{
+    background-color: #0a4db8;
+    color: white;
+}
+.btn-collection{
+    background-color: white;
+    color: #212529;
+    border: 1px solid #3e434777;
+}
+.btn-collection:hover{
+    border: 1px solid #212529;
+    background-color: #e3e6eb;
+}
+.btn-shop,.btn-collection{
+    padding: 14px 24px;
+}

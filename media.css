@@ -1,0 +1,17 @@
+@media only screen and (max-width: 576px) {
+    .content-heading{
+        font-size: 37px
+    }    
+    .content p{
+        font-size: 1.3rem;
+    }
+    .btn-collection{
+        margin-top: 18px;
+    }
+    .features{
+        align-items: center;
+    }
+    .feature-item{
+        margin-bottom: 20px;
+    }
+}
